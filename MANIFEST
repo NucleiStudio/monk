@@ -1,0 +1,2 @@
+REPO NucleiStdio
+LOAD grafana/grafana.yml prometheus/prometheus.yml substrate/substrate.yml substrate-rococo/rococo.yml stack-rococo/stack.yml
